@@ -1,0 +1,8 @@
+# TODO
+- add unit test to this project for each feature
+- add more features to the application including:
+    * conversion between more formats (video and audio)
+    * a player graphical interface
+    * etc.
+- add a setup.py file
+- add test sample data
