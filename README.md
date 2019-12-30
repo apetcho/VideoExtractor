@@ -9,7 +9,7 @@ tested on MacOS.
 After your system is properly set, you run the software as follows
 from the command-line (aka Terminal):
 
-    ```
+
     $ MY_INPUT=inputfile.mp4
     $ MY_OUTPUT=outputfile.mp4
     $ START_TIME=00:20:15    # We want the clip starting from 20min15
@@ -20,11 +20,8 @@ from the command-line (aka Terminal):
     --outfile=${MY_OUTPUT} \
     --start=${START_TIME} \
     --duration=${DURATION}
-    ```
 
 To have more help on how to use this software, just run the following
 code:
 
-    ```
     $ python3 VideoExtractor.py --help
-    ```
